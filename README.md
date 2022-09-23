@@ -4,6 +4,8 @@ Licensed under the MIT License. See file [LICENSE](./LICENSE).
 
 [Cypress](https://www.cypress.io/) web testing example. Example includes code written in JavaScript and TypeScript.
 
+[![CodeQL](https://github.com/mneiferbag/javascript-cypress/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/mneiferbag/javascript-cypress/actions/workflows/codeql-analysis.yml)
+
 ## Cypress
 
 Installation
@@ -11,6 +13,9 @@ Installation
     npm init
     npm install --save-dev typescript
     npm install --save-dev cypress
+
+## BDD / Gherkin
+
     npm install --save-dev @badeball/cypress-cucumber-preprocessor
     npm install --save-dev @bahmutov/cypress-esbuild-preprocessor
 
