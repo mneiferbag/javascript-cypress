@@ -1,0 +1,25 @@
+{
+  "name": "javascript-cypress",
+  "version": "1.0.0",
+  "description": "Cypress web testing examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mneiferbag/javascript-cypress.git"
+  },
+  "author": "Markus Neifer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mneiferbag/javascript-cypress/issues"
+  },
+  "homepage": "https://github.com/mneiferbag/javascript-cypress#readme",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^13.0.0",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.1.3",
+    "cypress": "^10.8.0",
+    "typescript": "^4.8.3"
+  }
+}
