@@ -26,9 +26,14 @@ Test
 ## Links
 
 * Cypress
+  * [Community](https://discord.com/channels/755913899261296641/)
   * [cypress-cucumber-preprocessor](https://github.com/badeball/cypress-cucumber-preprocessor) plugin for BDD / Gherkin support
-  * [Cypress Documentation](https://docs.cypress.io/)
+  * [Documentation](https://docs.cypress.io/)
+  * [Kitchen Sink](https://example.cypress.io/)
 * General
+  * [JavaScript - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  * [TypeScript](https://www.typescriptlang.org/)
+  * [TypeScript Community](https://discord.com/channels/508357248330760243/)
   * [Web Development Examples](https://github.com/mneiferbag/javascript-examples)
 
 ## Tasks
